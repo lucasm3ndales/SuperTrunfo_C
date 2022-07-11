@@ -1,0 +1,17 @@
+Super trunfo dos Ricks ==>
+
+Eu sou um grande fã da série animada Rick And Morty,
+e portanto decidi fazer um super trunfo dos ricks.
+Na série temos um enredo focado na teoria dos multiversos,
+logo há infinitos "Ricks" na série, cada um com suas características
+e peculiaridades. Dessa forma, farei as cartas do baralho baseadondo-se 
+em 3 atributos dos ricks:
+- Inteligência (1 - 10)
+- alcoolismo (1 - 10)
+- nilismo (1 - 10)
+Os atributos usados no jogo, são baseados nas características que todos os 
+Ricks tem na série, que são a super inteligência, pois eles são cientistas,
+o alcoolismo, pois os Ricks estão quase a todo momento bebendo na série, e 
+o nilismo, já que todos os Ricks, não veem fundamento e propósito na existência
+das coisas e da vida, não tem crenças e acreditam apenas neles próprios.
+
